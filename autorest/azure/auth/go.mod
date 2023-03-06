@@ -9,5 +9,5 @@ require (
 	github.com/Azure/go-autorest/autorest/azure/cli v0.4.2
 	github.com/Azure/go-autorest/logger v0.2.0
 	github.com/dimchansky/utfbom v1.1.1
-	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad // indirect
+	golang.org/x/crypto v0.1.0 // indirect
 )
